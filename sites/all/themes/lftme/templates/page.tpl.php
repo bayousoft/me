@@ -68,6 +68,7 @@
  * @see template_process()
  */
 ?>
+<div id="forkme" style="position:fixed; top:0; right:0; border:0; z-index:10"><a href="http://github.com/bayousoft/lftme"><img border="0" src="/lftme/sites/all/themes/lftme/images/forkme.png" /></a></div>
 
 <div id="page-wrapper"><div id="page">
 
@@ -169,3 +170,5 @@
 </div></div><!-- /#page, /#page-wrapper -->
 
 <?php print render($page['bottom']); ?>
+
+

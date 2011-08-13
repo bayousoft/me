@@ -243,3 +243,22 @@ ul.links li {
 	padding:2px
 }
 
+#cboxLoadedContent {
+	padding-top:25px;
+	padding-left:25px
+}
+
+#cboxLoadedContent #edit-name, #cboxLoadedContent #edit-pass {
+	height:30px;
+	width:225px
+}
+
+#cboxLoadedContent .description {
+	padding-top:10px;
+	padding-bottom:20px
+}
+
+#cboxLoadedContent label, #cboxLoadedContent li{
+	padding-bottom:10px
+}
+	
